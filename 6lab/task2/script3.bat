@@ -1,0 +1,1 @@
+schtasks /create /sc minute /mo 1 /tn schscript /tr script2.bat

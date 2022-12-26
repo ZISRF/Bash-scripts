@@ -1,7 +1,1 @@
-## My laboratory works on bash scripts at [ITMO University](https://itmo.ru)
-*
-*
-*
-*
-*
-*
+## My laboratory works on OS scripts at [ITMO University](https://itmo.ru)
